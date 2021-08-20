@@ -1,0 +1,3 @@
+# Machine-Learning-From-Disaster
+In this project we have a two type of datasets about the passengers who were on board the Titanic. One dataset includes different features of travelers including age, gender, passenger class etc along with the information whether those passengers survived or not. Other dataset only has the features without survival information. Our job is to train the Machine Learning Model using the passenger data with survival information, so that we can use that model to predict about the survival of other passengers (whose data did not have survival information).
+In above code I tried different models, and choose the one who gave the best result.
